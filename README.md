@@ -1,4 +1,4 @@
-# My first capstone
+# My First Data Analysis Capstone
 
 ### Singapore Labour Movement Trends Interactive Dashboard
 
@@ -12,19 +12,21 @@ Labour movement refers to employees in and out of employment.  In Singapore, lab
 
 What I have learned:
 
-From Data Analysis
-- Singapore economy driven by four major industry
+From Data Analysis:
+
+- Singapore economy driven by four major industry.
 - How the economy crisis and external factors affecting country Recruitment and Resignation trend by industry.
 
-From Ms Excel and Power Query
+From Ms Excel and Power Query:
 
 - I did a series of Data cleaning and Transformation using tools from Ms Excel and Power Query.
 - In the original raw data ,the year and the quarterly month data were joined together in 1 column in excel, I split it into two separate column as Year and Quarter in Power Query. Using Split Column Delimiter.
+
 - Check and clean all the blank cells.
--Check and clean all the  Duplicate Cells
--Update the Heading with Proper definition and Proper Case
+- Check and clean all the  Duplicate Cells
+- Update the Heading with Proper definition and Proper Case
 - Update the Industry and sub Industry columns data’s to propercase using formula in excel (=proper())
--Format cell for the Average Recuitment and Resignation rate from General values to Number values and format it to 1 decimal place.
+- Format cell for the Average Recuitment and Resignation rate from General values to Number values and format it to 1 decimal place.
 - How to create interactive Dashboard using Pivot Table
 - Incorporate Slicers into the Excel Dashboard to make interactive and easy to analysis and understood.
 
