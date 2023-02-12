@@ -30,4 +30,4 @@ From Ms Excel and Power Query:
 - How to create interactive Dashboard using Pivot Table
 - Incorporate Slicers into the Excel Dashboard to make interactive and easy to analysis and understood.
 
-[LinkedIn Profile](https://www.linkedin.com/in/sailaja-begum-6b7167259/)
+[ My LinkedIn Profile](https://www.linkedin.com/in/sailaja-begum-6b7167259/)
